@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rodrigo Mendes!!!
 - 📚 Atualmente sou estudande de Análise e Desenvolvimento de Sistemas na FIAP
 - 🚀 Sou um desenvolvedor .Net Jr
-### Olá eu sou o Rodrigo Mendes
+### Minhas Skills:
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <a href="https://github.com/RodrigoMendesz/RodrigoMendesz">
